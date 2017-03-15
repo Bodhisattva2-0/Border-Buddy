@@ -1,4 +1,3 @@
-[![CircleCI](https://circleci.com/gh/Bodhisattva2-0/Border-Buddy/tree/master.svg?style=svg&circle-token=413dc34842aab4feeba91197e6a52c5ee22defa4)](https://circleci.com/gh/Bodhisattva2-0/Border-Buddy/tree/master)
 [![Stories in Ready](https://badge.waffle.io/EmilyDev/Hack-The-Ban.png?label=ready&title=Ready)](https://waffle.io/EmilyDev/Hack-The-Ban)
 # Hack The Ban - Border Buddy
 ## Getting Started
